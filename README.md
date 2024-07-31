@@ -92,3 +92,15 @@ note:-password is the usual one of mummy papa and that number
 
 ![image](https://github.com/user-attachments/assets/0ac7c35a-1ed4-4577-a32f-4a33fc48c5cb)
 
+![image](https://github.com/user-attachments/assets/ab0a216e-ea75-4573-a6dc-d3688b363388)
+
+now make a view of it 
+![image](https://github.com/user-attachments/assets/5a46035a-fae5-47c3-8280-97c14135bb13)
+
+![image](https://github.com/user-attachments/assets/d0f60085-37e6-4309-b41d-9003d5afb774)
+
+![image](https://github.com/user-attachments/assets/61d8ab66-a3df-472d-add4-e55e493fc742)
+
+![image](https://github.com/user-attachments/assets/5db1090d-7195-4a03-90b8-813140155e89)
+
+
