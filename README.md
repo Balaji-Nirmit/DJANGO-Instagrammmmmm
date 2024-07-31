@@ -40,3 +40,15 @@ now register this url file in main urls.py of django_project  folder
 ![image](https://github.com/user-attachments/assets/14673255-03f5-4346-99ae-49d0aa115311)
 
 to use static file load static at the top of html file
+
+# models 
+now we will make database models 
+it is made in models.py of post folder
+
+![image](https://github.com/user-attachments/assets/d2bab812-fdd5-468b-90e8-e7087e29ca45)
+
+![image](https://github.com/user-attachments/assets/0077f321-2b3a-498a-b157-fb7c3cf26176)
+
+![image](https://github.com/user-attachments/assets/382324d0-062d-4a8b-b364-93ac854b8618)
+
+![image](https://github.com/user-attachments/assets/7cf41f3d-06af-4432-bcd2-631646976877)
