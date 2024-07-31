@@ -52,3 +52,43 @@ it is made in models.py of post folder
 ![image](https://github.com/user-attachments/assets/382324d0-062d-4a8b-b364-93ac854b8618)
 
 ![image](https://github.com/user-attachments/assets/7cf41f3d-06af-4432-bcd2-631646976877)
+
+![image](https://github.com/user-attachments/assets/583dc9f4-6263-4148-9305-de6518f2cac0)
+
+![image](https://github.com/user-attachments/assets/27b9bf7c-822b-4550-927b-8809146f56b9)
+
+![image](https://github.com/user-attachments/assets/c87ed9b4-9584-45ab-8068-30037feabbb9)
+
+![image](https://github.com/user-attachments/assets/c53da349-2c7a-4c7e-981a-a869b91cb931)
+
+now write the models in models.py and then register it in admin.py
+![image](https://github.com/user-attachments/assets/0d59f9e0-4739-4b10-9f1f-d2b75fc86f3e)
+
+after that 
+python manage.py makemigrations 
+python manage.py migrate 
+
+then create a super user to login and register and test
+python manage.py create superuser
+![image](https://github.com/user-attachments/assets/45311085-4278-43a9-ae23-c6f59445227a)
+
+![image](https://github.com/user-attachments/assets/bc41cf31-e2d1-499d-a506-373fc0c9c349)
+
+note:-password is the usual one of mummy papa and that number
+![image](https://github.com/user-attachments/assets/68c6a900-d397-4329-ab98-cbe5b042acd5)
+
+![image](https://github.com/user-attachments/assets/63c4459e-870d-4a3b-b34b-683bc70edf65)
+
+![image](https://github.com/user-attachments/assets/31c5a44a-b1df-4e0b-96cd-90850eb20d1f)
+
+![image](https://github.com/user-attachments/assets/b73c0656-e541-41e4-a7cd-7fbe6b25f652)
+
+![image](https://github.com/user-attachments/assets/9a5ef6d5-2c45-4945-a42b-5965582cdafb)
+
+# adding post from front end
+![image](https://github.com/user-attachments/assets/eb2c0625-fcd7-46fe-8320-9925e055116b)
+
+![image](https://github.com/user-attachments/assets/2b9a91f6-9afc-4e1e-b3b2-51d277081e98)
+
+![image](https://github.com/user-attachments/assets/0ac7c35a-1ed4-4577-a32f-4a33fc48c5cb)
+
