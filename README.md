@@ -104,3 +104,20 @@ now make a view of it
 ![image](https://github.com/user-attachments/assets/5db1090d-7195-4a03-90b8-813140155e89)
 
 
+<h1>django new part-2</h1>
+
+after creating a model do this 
+![image](https://github.com/user-attachments/assets/5464e793-fbfd-47ac-ba47-b3c278e3e346)
+
+![image](https://github.com/user-attachments/assets/af431183-fbbf-49c3-bfef-b5e3a90e5cd7)
+
+![image](https://github.com/user-attachments/assets/2dfd70d8-94bb-4c77-8c1b-5a57e2ae4ff7)
+
+![image](https://github.com/user-attachments/assets/ac428841-fb7f-4681-b7a5-89eaeb23081f)
+
+![image](https://github.com/user-attachments/assets/52880da5-81fa-4138-9dab-7b6416c47d22)
+
+to register models for admin go to admin.py
+![image](https://github.com/user-attachments/assets/72f504e8-bdf0-426e-a272-aee2e7bba790)
+
+
