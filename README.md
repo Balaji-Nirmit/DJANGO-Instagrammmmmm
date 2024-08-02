@@ -121,3 +121,17 @@ to register models for admin go to admin.py
 ![image](https://github.com/user-attachments/assets/72f504e8-bdf0-426e-a272-aee2e7bba790)
 
 
+<h3>Signup login and logout</h3>
+
+![image](https://github.com/user-attachments/assets/83072dca-0090-4bee-acab-463f8b3e5fd8)
+
+![image](https://github.com/user-attachments/assets/05683244-2685-403f-be7b-6c39798dc0e1)
+
+![image](https://github.com/user-attachments/assets/bdcea27b-5353-4aa1-9979-8b606e4ce566)
+
+![image](https://github.com/user-attachments/assets/e3325f89-2bf5-424f-b576-cf5fb3b100f8)
+
+![image](https://github.com/user-attachments/assets/1acef6be-6860-4966-9672-21376df21187)
+
+same named images are handled by default in django
+also this way coding will work for updating the profile also 
